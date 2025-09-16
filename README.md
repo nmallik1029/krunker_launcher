@@ -38,3 +38,9 @@
         Final Scripts / generated .js files you can activate
   
         klap_config.json <- app settings (created automatically, don't need to touch this file but you can if you'd like to change paths from out of the GUI)
+
+## Credits
+Credits to: 
+Ghosty, Maks, Asterea, mkyiin, Klap
+
+This is obviously not monetized at all; standard disclaimer: don't pay for this, it's free and OSS. Please open an issue on GitHub or DM me with any issue/question. 
