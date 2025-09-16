@@ -10,7 +10,7 @@
 
 ## Quick Start
 1. **Download & extract** `launcher.zip` anywhere you have write permissions.
-2. Open `KlapAyan Launcher.exe` **(IT WILL GIVE A WARNING, THIS IS BECAUSE IT IS AN UNSIGNED AUTHOR!!)
+2. Open `KlapAyan Launcher.exe` **(IT WILL GIVE A WARNING, THIS IS BECAUSE IT IS AN UNSIGNED AUTHOR!!)**
 3. On first run the app creates  **Assets/** and **Final Scripts/** next to the EXE. These will be preloaded with 31 soundpacks from VALORANT that Klap, Araf, and I personally liked the most. You're free to pick any more from the link below :)
 
 ## Build Packs (create your own)
