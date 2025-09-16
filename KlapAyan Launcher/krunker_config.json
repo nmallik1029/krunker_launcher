@@ -1,0 +1,9 @@
+{
+  "finals_dir": "Final Scripts",
+  "game_dir": "",
+  "client_path": "",
+  "active_filename": "active_soundpack.js",
+  "template_path": "Assets\\template.js",
+  "auto_copy_after_build": true,
+  "delete_zips_after_build": true
+}
